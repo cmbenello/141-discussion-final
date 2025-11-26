@@ -1,0 +1,236 @@
+{
+  "results": [
+    {
+      "exit_code": 5,
+      "name": "rl_26_count_smaller_to_right",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "recursion_lists"
+    },
+    {
+      "exit_code": 5,
+      "name": "ba_01_add_three",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "basics"
+    },
+    {
+      "exit_code": 0,
+      "name": "lt_16_zip_lists",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": true,
+      "topic": "lists_tuples"
+    },
+    {
+      "exit_code": 5,
+      "name": "sd_14_anagram_dict",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "strings_dicts"
+    },
+    {
+      "exit_code": 5,
+      "name": "sd_09_normalize_whitespace",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "strings_dicts"
+    },
+    {
+      "exit_code": 0,
+      "name": "lt_11_pairwise_sums",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": true,
+      "topic": "lists_tuples"
+    },
+    {
+      "exit_code": 5,
+      "name": "rl_24_is_sorted_recursive",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "recursion_lists"
+    },
+    {
+      "exit_code": 5,
+      "name": "sd_07_join_with_comma",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "strings_dicts"
+    },
+    {
+      "exit_code": 5,
+      "name": "tt_35_diameter",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "trees_tries"
+    },
+    {
+      "exit_code": 5,
+      "name": "ba_24_copy_and_append",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "basics"
+    },
+    {
+      "exit_code": 5,
+      "name": "tt_39_are_cousins",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "trees_tries"
+    },
+    {
+      "exit_code": 5,
+      "name": "sd_06_split_on_spaces",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "strings_dicts"
+    },
+    {
+      "exit_code": 5,
+      "name": "ba_14_dedup_preserve_order",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "basics"
+    },
+    {
+      "exit_code": 0,
+      "name": "lt_04_find_all_indices",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": true,
+      "topic": "lists_tuples"
+    },
+    {
+      "exit_code": 5,
+      "name": "tt_26_bst_floor",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "trees_tries"
+    },
+    {
+      "exit_code": 5,
+      "name": "rl_12_reverse_new",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "recursion_lists"
+    },
+    {
+      "exit_code": 5,
+      "name": "tt_42_trie_contains",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "trees_tries"
+    },
+    {
+      "exit_code": 5,
+      "name": "tt_11_preorder",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "trees_tries"
+    },
+    {
+      "exit_code": 0,
+      "name": "lt_01_sum_list",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": true,
+      "topic": "lists_tuples"
+    },
+    {
+      "exit_code": 5,
+      "name": "rl_23_merge_sort_recursive",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "recursion_lists"
+    },
+    {
+      "exit_code": 5,
+      "name": "sd_25_histogram_even_odd",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "strings_dicts"
+    },
+    {
+      "exit_code": 0,
+      "name": "lt_03_max_index",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": true,
+      "topic": "lists_tuples"
+    },
+    {
+      "exit_code": 5,
+      "name": "rl_19_interleave_recursive",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "recursion_lists"
+    },
+    {
+      "exit_code": 5,
+      "name": "ba_06_is_close",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "basics"
+    },
+    {
+      "exit_code": 5,
+      "name": "ba_15_pairwise_sums",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "basics"
+    }
+  ],
+  "summary": {
+    "by_topic": {
+      "basics": {
+        "failed": 5,
+        "passed": 0,
+        "total": 5
+      },
+      "lists_tuples": {
+        "failed": 0,
+        "passed": 5,
+        "total": 5
+      },
+      "recursion_lists": {
+        "failed": 5,
+        "passed": 0,
+        "total": 5
+      },
+      "strings_dicts": {
+        "failed": 5,
+        "passed": 0,
+        "total": 5
+      },
+      "trees_tries": {
+        "failed": 5,
+        "passed": 0,
+        "total": 5
+      }
+    },
+    "failed": 20,
+    "passed": 5,
+    "total": 25
+  }
+}

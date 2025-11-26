@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "exit_code": 5,
+      "name": "sd_01_count_vowels",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "strings_dicts"
+    },
+    {
+      "exit_code": 5,
+      "name": "ba_25_update_counter",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "basics"
+    },
+    {
+      "exit_code": 5,
+      "name": "ba_17_chunk_list",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "basics"
+    },
+    {
+      "exit_code": 5,
+      "name": "sd_19_map_chars",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "strings_dicts"
+    }
+  ],
+  "summary": {
+    "by_topic": {
+      "basics": {
+        "failed": 2,
+        "passed": 0,
+        "total": 2
+      },
+      "strings_dicts": {
+        "failed": 2,
+        "passed": 0,
+        "total": 2
+      }
+    },
+    "failed": 4,
+    "passed": 0,
+    "total": 4
+  }
+}
