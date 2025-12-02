@@ -1,0 +1,236 @@
+{
+  "results": [
+    {
+      "exit_code": 1,
+      "name": "ba_17_chunk_list",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "basics"
+    },
+    {
+      "exit_code": 1,
+      "name": "sd_22_merge_dicts_sum",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "strings_dicts"
+    },
+    {
+      "exit_code": 1,
+      "name": "lt_09_remove_all",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "lists_tuples"
+    },
+    {
+      "exit_code": 1,
+      "name": "tt_40_prune_below_threshold",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "trees_tries"
+    },
+    {
+      "exit_code": 1,
+      "name": "ba_15_pairwise_sums",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "basics"
+    },
+    {
+      "exit_code": 1,
+      "name": "lt_02_average_list",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "lists_tuples"
+    },
+    {
+      "exit_code": 1,
+      "name": "lt_27_mode_of_list",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "lists_tuples"
+    },
+    {
+      "exit_code": 1,
+      "name": "sd_12_word_frequency",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "strings_dicts"
+    },
+    {
+      "exit_code": 1,
+      "name": "ba_18_argmax",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "basics"
+    },
+    {
+      "exit_code": 1,
+      "name": "rl_25_count_inversions_simple",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "recursion_lists"
+    },
+    {
+      "exit_code": 1,
+      "name": "rl_46_subsets_all",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "recursion_lists"
+    },
+    {
+      "exit_code": 1,
+      "name": "rl_19_interleave_recursive",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "recursion_lists"
+    },
+    {
+      "exit_code": 1,
+      "name": "tt_50_trie_is_complete_for_alphabet",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "trees_tries"
+    },
+    {
+      "exit_code": 1,
+      "name": "sd_27_longest_common_prefix",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "strings_dicts"
+    },
+    {
+      "exit_code": 1,
+      "name": "tt_47_trie_collect_words",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "trees_tries"
+    },
+    {
+      "exit_code": 1,
+      "name": "sd_25_histogram_even_odd",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "strings_dicts"
+    },
+    {
+      "exit_code": 1,
+      "name": "ba_06_is_close",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "basics"
+    },
+    {
+      "exit_code": 1,
+      "name": "ba_24_copy_and_append",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "basics"
+    },
+    {
+      "exit_code": 1,
+      "name": "tt_02_tree_height",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "trees_tries"
+    },
+    {
+      "exit_code": 1,
+      "name": "sd_05_only_alpha_lower",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "strings_dicts"
+    },
+    {
+      "exit_code": 1,
+      "name": "tt_26_bst_floor",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "trees_tries"
+    },
+    {
+      "exit_code": 1,
+      "name": "rl_28_split_even_odd_indices",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "recursion_lists"
+    },
+    {
+      "exit_code": 1,
+      "name": "lt_23_transpose_matrix",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "lists_tuples"
+    },
+    {
+      "exit_code": 1,
+      "name": "lt_14_windowed_sublists",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "lists_tuples"
+    },
+    {
+      "exit_code": 1,
+      "name": "rl_31_len_from_index",
+      "num_failed": null,
+      "num_tests": null,
+      "passed": false,
+      "topic": "recursion_lists"
+    }
+  ],
+  "summary": {
+    "by_topic": {
+      "basics": {
+        "failed": 5,
+        "passed": 0,
+        "total": 5
+      },
+      "lists_tuples": {
+        "failed": 5,
+        "passed": 0,
+        "total": 5
+      },
+      "recursion_lists": {
+        "failed": 5,
+        "passed": 0,
+        "total": 5
+      },
+      "strings_dicts": {
+        "failed": 5,
+        "passed": 0,
+        "total": 5
+      },
+      "trees_tries": {
+        "failed": 5,
+        "passed": 0,
+        "total": 5
+      }
+    },
+    "failed": 25,
+    "passed": 0,
+    "total": 25
+  }
+}
